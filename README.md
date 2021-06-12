@@ -4,7 +4,7 @@ O Programa Nacional de Imunização foi criado em 18 de setembro de 1973 e gerid
 
 <br/>
 <p align="center">
-    <img width="80%" src="" alt="Vacinação">
+    <img width="80%" src="./imagens/vacinacao.jpg" alt="Vacinação">
 </p>
 <br/>
 
