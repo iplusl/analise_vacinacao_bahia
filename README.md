@@ -18,11 +18,12 @@ Os dados que serão utilizados nesse projeto são disponibilizados pelo DataSUS 
 
 Versões utilizadas no projeto:
 
-* Python 3.8.8
-* Jupyter Notebook 6.3.0
-* Pandas 1.2.4
-* Matplotlib 3.3.4
-* Seaborn 0.11.1
+* <a href="https://www.python.org/downloads/release/python-388/">Python 3.8.8</a>
+* <a href="https://pypi.org/project/notebook/6.3.0/">Jupyter Notebook 6.3.0</a>
+* <a href="https://pandas.pydata.org/pandas-docs/stable/whatsnew/v1.2.4.html">Pandas 1.2.4</a>
+* <a href="https://numpy.org/devdocs/release/1.20.1-notes.html">Numpy 1.20.1</a>
+* <a href="https://matplotlib.org/3.3.4/users/installing.html">Matplotlib 3.3.4</a>
+* <a href="https://seaborn.pydata.org/installing.html">Seaborn 0.11.1</a>
 
 ## 🤔&nbsp; Hipóteses 
 
