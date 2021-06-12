@@ -19,7 +19,10 @@ Os dados que serão utilizados nesse projeto são disponibilizados pelo DataSUS 
 Versões utilizadas no projeto:
 
 * Python 3.8.8
+* Jupyter Notebook 6.3.0
 * Pandas 1.2.4
+* Matplotlib 3.3.4
+* Seaborn 0.11.1
 
 ## 🤔&nbsp; Hipóteses 
 
@@ -28,6 +31,11 @@ Versões utilizadas no projeto:
 * 3: Quais as 3 vacinas mais aplicadas na Bahia?
 * 4: É possível notar um decrescimento nos casos das doenças das 3 vacinas mais aplicadas na Bahia?
 * Etc.
+
+## 📑&nbsp; Sumário
+
+* <a href="./noteboks/01 - Coleta e Limpeza.ipynb">01 - Coleta e Limpeza</a>
+* <a href="./noteboks/02 - Análise Exploratória - Cobertura Vacinal.ipynb">02 - Análise Exploratória - Cobertura Vacinal</a>
 
 ## ✅&nbsp; Conclusões
 
