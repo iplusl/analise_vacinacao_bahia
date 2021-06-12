@@ -34,8 +34,8 @@ Versões utilizadas no projeto:
 
 ## 📑&nbsp; Sumário
 
-* <a href="./noteboks/01 - Coleta e Limpeza.ipynb">01 - Coleta e Limpeza</a>
-* <a href="./noteboks/02 - Análise Exploratória - Cobertura Vacinal.ipynb">02 - Análise Exploratória - Cobertura Vacinal</a>
+* <a href="./notebooks/01 - Coleta e Limpeza.ipynb">01 - Coleta e Limpeza</a>
+* <a href="./notebooks/02 - Análise Exploratória - Cobertura Vacinal.ipynb">02 - Análise Exploratória - Cobertura Vacinal</a>
 
 ## ✅&nbsp; Conclusões
 
