@@ -16,7 +16,10 @@ Os dados que serão utilizados nesse projeto são disponibilizados pelo DataSUS 
 
 ## 💻&nbsp; Tecnologia
 
-Versões utilizadas no projeto.
+Versões utilizadas no projeto:
+
+* Python 3.8.8
+* Pandas 1.2.4
 
 ## 🤔&nbsp; Hipóteses 
 
