@@ -56,6 +56,6 @@ Posteriormente analisamos o ranking das vacinas aplicadas na Bahia em comparaÃ§Ã
 
 <br/>
 <p align="center">
-    <img width="40%" src="./imagens/sus.png" alt="Defenda o SUS">
+    <img width="10%" src="./imagens/sus.png" alt="Defenda o SUS">
 </p>
 <br/>
