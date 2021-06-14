@@ -29,8 +29,8 @@ Versões utilizadas no projeto:
 
 * 1: O PNI está vacinando em maior ou menor quantidade nos últimos 4 anos?
 * 2: É possível notar um decrescimento nos casos da vacina mais aplicada no Brasil pelo PNI?
-* 3: Quais as 3 vacinas mais aplicadas na Bahia?
-* 4: É possível notar um decrescimento nos casos das doenças das 3 vacinas mais aplicadas na Bahia?
+* 3: As 3 vacinas mais aplicadas na Bahia também são as 3 mais aplicadas no Brasil?
+* 4: É possível notar um decrescimento nos casos de poliomelite na Bahia?
 
 ## 📑&nbsp; Sumário
 
@@ -43,7 +43,9 @@ Versões utilizadas no projeto:
 
 Através das análises feitas, pudemos observar que a média da Cobertura Vacinal caiu bastante, desde 2016 estamos com uma média de cobertura abaixo da média de todos os anos e o mesmo comportamento se repete com a quantidade de doses aplicadas. Com isso podemos afirma que nos últimos 4 anos o Brasil vem vacinando menos quando comparamos com todos os dados históricos.
 
-Depois, descobrimos que a vacina mais aplicada no nosso país é a BCG, vacina que combate doenças como a meningite tuberculosa e a tuberculose miliar.
+Depois, descobrimos que a vacina mais aplicada no nosso país é a BCG, vacina que combate doenças como a meningite tuberculosa e a tuberculose miliar. Análisando os dados para tuberculose não foi possível perceber nenhum padrão, seja uma tendência ou sazonalidade. Caso tivesse algum padrão poderiamos ter tentado relacionar com a vacinação do BCG. Muito provavelmente, por falta de conhecimento da área de saúde, escolhi um procedimento errado para esse dataset e com isso pode ser que esses dados não tenham nada a ver com a tuberculose e a meningite combatida pelo BCG.
+
+Posteriormente analisamos o ranking das vacinas aplicadas na Bahia em comparação com o Brasil e podemos afirmar que as 3 vacinas mais aplicadas na Bahia também são as três vacinas mais aplicadas no Brasil, mantendo a mesma ordem de colocação. Análisando os dados de poliomelite na Bahia não possível perceber nenhum padrão já que há poquíssimos casos de internações por poliomelite aguda. Talvez o ideal ao analisar esse tipo de doença seja olhar para os dados de produção ambulatorial, onde pode ser que os casos que ainda existem de poliomelite não conseguem se agravar ao ponto de exigir uma internação. O mesmo comportamento se repete para a esfera nacional, onde ao longo dos anos tivemos poucos casos de internações de poliomelite aguda. Somente em janeiro de 2008 que no Brasil houve um pico chegando a 9 internações.
 
 
 ## 📘&nbsp; Contato
@@ -51,3 +53,9 @@ Depois, descobrimos que a vacina mais aplicada no nosso país é a BCG, vacina q
 <p>
 <a href="https://www.linkedin.com/in/icaro-carneiro" target="_blank"><img alt="LinkedIn - Ícaro Carneiro" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+<br/>
+<p align="center">
+    <img width="80%" src="./imagens/sus.png" alt="Defenda o SUS">
+</p>
+<br/>
