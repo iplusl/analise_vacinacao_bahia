@@ -28,19 +28,22 @@ Versões utilizadas no projeto:
 ## 🤔&nbsp; Hipóteses 
 
 * 1: O PNI está vacinando em maior ou menor quantidade nos últimos 4 anos?
-* 2: É possível notar um decrescimento nos casos de alguma das doenças com vacinas disponibilizadas pelo PNI?
+* 2: É possível notar um decrescimento nos casos da vacina mais aplicada no Brasil pelo PNI?
 * 3: Quais as 3 vacinas mais aplicadas na Bahia?
 * 4: É possível notar um decrescimento nos casos das doenças das 3 vacinas mais aplicadas na Bahia?
-* Etc.
 
 ## 📑&nbsp; Sumário
 
 * <a href="./notebooks/01 - Coleta e Limpeza.ipynb">01 - Coleta e Limpeza</a>
 * <a href="./notebooks/02 - Análise Exploratória - Cobertura Vacinal.ipynb">02 - Análise Exploratória - Cobertura Vacinal</a>
+* <a href="./notebooks/03 - Análise Exploratória - Doses.ipynb">03 - Análise Exploratória - Doses</a>
+* <a href="./notebooks/04 - Análisando Hipóteses.ipynb">04 - Análisando Hipóteses</a>
 
 ## ✅&nbsp; Conclusões
 
-Texto aqui.
+Através das análises feitas, pudemos observar que a média da Cobertura Vacinal caiu bastante, desde 2016 estamos com uma média de cobertura abaixo da média de todos os anos e o mesmo comportamento se repete com a quantidade de doses aplicadas. Com isso podemos afirma que nos últimos 4 anos o Brasil vem vacinando menos quando comparamos com todos os dados históricos.
+
+Depois, descobrimos que a vacina mais aplicada no nosso país é a BCG, vacina que combate doenças como a meningite tuberculosa e a tuberculose miliar.
 
 
 ## 📘&nbsp; Contato
